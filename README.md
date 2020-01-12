@@ -1,5 +1,5 @@
 # PlaneAI
-PlaneAI is a learning project used for recognizing fighter jet aircraft using an artificial intelligence. 
+PlaneAI is a learning project used for recognizing fighter jet aircraft using artificial intelligence. 
 
 The project will use the resources listed below to build the system.
 * https://towardsdatascience.com/train-image-recognition-ai-with-5-lines-of-code-8ed0bdd8d9ba
